@@ -12,6 +12,6 @@
 
 ## Predition_RealTime.py - Giving realtime predictions for a camera feed
 
-## Prediction_code.py - Giving predictions using videos in local commputer
+## Prediction_code.py - Giving predictions using videos in local computer
 
 ## tf_to_tflite.py - Converting saved Tensorflow model to Tensorflow Lite model in order to make it possible to run on Raspberry Pi
